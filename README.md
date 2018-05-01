@@ -3,7 +3,7 @@ Resources and materials for the fellowship on the Aston University (April &amp; 
 
 ## List of resources:
 
-- [Talk about WEKA, MEKA and MOA](https://github.com/alvarag/AstonUniversity/20180503_TakAboutWEKA.md)
+- [Talk about WEKA, MEKA and MOA](https://github.com/alvarag/AstonUniversity/blob/master/20180503_TakAboutWEKA.md)
 
 ## Author
 Álvar Arnaiz-González, member of [ADMIRABLE research group](http://admirable-ubu.es/)
