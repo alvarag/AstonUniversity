@@ -1,4 +1,4 @@
-# Machine learning tools talk (3rd of May, 2018)
+# Machine learning tools talk (3rd of May 2018)
 The aim of the talk is just to give the information and general knowledge about three popular Machine Learning tools: WEKA, MEKA, and MOA.
 One of the main advantages of these tools, for non-experienced users, is that all of them can be used without need of programming by using the GUI.
 
@@ -6,7 +6,7 @@ One of the main advantages of these tools, for non-experienced users, is that al
 
 WEKA is a collection of machine learning algorithms for data mining tasks. The algorithms can either be applied directly to a dataset or called from your own Java code. Weka contains tools for data pre-processing, classification, regression, clustering, association rules, and visualization. It is also well-suited for developing new machine learning schemes. 
 
-On-line course for learning how to use WEKA: https://www.cs.waikato.ac.nz/ml/weka/mooc/dataminingwithweka/slides/
+On-line course for learning how to use WEKA: https://www.cs.waikato.ac.nz/ml/weka/mooc/dataminingwithweka/
 
 Resources: 
 
