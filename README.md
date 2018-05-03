@@ -4,6 +4,7 @@ Resources and materials for the fellowship on the [Aston University](http://www.
 ## List of resources:
 
 - [Talk about WEKA, MEKA and MOA](https://github.com/alvarag/AstonUniversity/blob/master/20180503_WEKA_MEKA_MOA_Talk.md)
+- [Talk about Engine failures](https://github.com/alvarag/AstonUniversity/blob/master/20180503_ENGINE_FAILURES_Talk.md)
 
 ## Author
 Álvar Arnaiz-González, member of [ADMIRABLE research group](http://admirable-ubu.es/)
